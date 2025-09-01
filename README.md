@@ -17,8 +17,3 @@ It demonstrates SQL concepts like **joins, aggregates, subqueries, and schema de
 ✔️ Identify best-selling products  
 ✔️ Filter customers by city  
 
-## ▶️ How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Ecommerce-SQL-Project.git
-   cd Ecommerce-SQL-Project
